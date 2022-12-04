@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @florentdrousset
 - 👀 I love web development, and I’m especially interested in back end engineering and DevOps
-- 🌱 These days, I'm learning about Docker & Kubernete
+- 🌱 These days, I'm learning about Docker & Kubernetes
 - 📫 Feel free to visit my personnal website https://florent.codes
 
 <!---
