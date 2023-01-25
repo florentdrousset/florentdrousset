@@ -14,9 +14,7 @@
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-5849BE?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Sylius" src="https://img.shields.io/badge/-Sylius-430098?style=flat-square&logo=sylius&logoColor=white" />
   <img alt="Drupal" src="https://img.shields.io/badge/-Drupal-764ABC?style=flat-square&logo=drupal&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Julia" src="https://img.shields.io/badge/-Julia-ea2845?style=flat-square&logo=julia&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-43853d?style=flat-square&logo=postgregsql&logoColor=white" />
 </p>
