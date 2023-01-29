@@ -10,7 +10,6 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-5849BE?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Sylius" src="https://img.shields.io/badge/-Sylius-430098?style=flat-square&logo=sylius&logoColor=white" />
   <img alt="Drupal" src="https://img.shields.io/badge/-Drupal-764ABC?style=flat-square&logo=drupal&logoColor=white" />
