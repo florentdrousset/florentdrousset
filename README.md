@@ -13,7 +13,7 @@
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Sylius" src="https://img.shields.io/badge/-Sylius-430098?style=flat-square&logo=sylius&logoColor=white" />
   <img alt="Drupal" src="https://img.shields.io/badge/-Drupal-764ABC?style=flat-square&logo=drupal&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-43853d?style=flat-square&logo=postgregsql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <!---
