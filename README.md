@@ -10,7 +10,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-5849BE?style=flat-square&logo=golang&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-GO-00ADD8?style=flat-square&logo=golang&logoColor=white" />
   <img alt="Sylius" src="https://img.shields.io/badge/-Sylius-430098?style=flat-square&logo=sylius&logoColor=white" />
   <img alt="Drupal" src="https://img.shields.io/badge/-Drupal-764ABC?style=flat-square&logo=drupal&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-43853d?style=flat-square&logo=postgregsql&logoColor=white" />
