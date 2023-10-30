@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @florentdrousset
-- 👀 I love web development, and I’m especially interested in back end engineering
-- 📫 Feel free to visit my personnal website https://florentdrousset.com
+Hi, I’m @florentdrousset
+I love web development, and I’m especially interested in back end engineering
+Feel free to visit my personnal website https://florentdrousset.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florentdrousset&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p>
