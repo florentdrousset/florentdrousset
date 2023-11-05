@@ -1,5 +1,5 @@
 - Hi, I’m @florentdrousset
-- Full stak web developer
+- Full stack web developer
 - Feel free to visit my personnal website https://florentdrousset.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florentdrousset&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
