@@ -4,12 +4,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florentdrousset&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p>
+  <img alt="React" src="https://img.shields.io/badge/-React-9370DB?style=flat-square&logo=react&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-DD0031?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-FF9900?style=flat-square&logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Sylius" src="https://img.shields.io/badge/-Sylius-430098?style=flat-square&logo=sylius&logoColor=white" />
   <img alt="Drupal" src="https://img.shields.io/badge/-Drupal-764ABC?style=flat-square&logo=drupal&logoColor=white" />
