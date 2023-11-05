@@ -7,7 +7,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-DD0031?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="GCP" src="https://img.shields.io/badge/-GCP-FF9900?style=flat-square&logo=google&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-FF9900?style=flat-square&logo=google&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
