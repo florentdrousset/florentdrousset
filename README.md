@@ -1,8 +1,9 @@
+My name is Florent, and I'm a developer from France. I like to b̶r̶e̶a̶k̶ s̶t̶u̶f̶f̶ make things work.
+
 - Hi, I’m @florentdrousset
 - Full stack web developer
 - Feel free to visit my personnal website https://florentdrousset.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florentdrousset&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-9370DB?style=flat-square&logo=react&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white" />
