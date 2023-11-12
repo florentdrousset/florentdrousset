@@ -2,7 +2,7 @@ My name is Florent, and I'm a developer from France. I like to b̶r̶e̶a̶k̶ s
 Feel free to visit my personnal website https://florentdrousset.com
 
 <p>
-  <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-9370DB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-FF8C00?style=flat-square&logo=ocaml&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-DD0031?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
