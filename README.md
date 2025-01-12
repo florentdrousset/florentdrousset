@@ -1,5 +1,4 @@
-My name is Florent, and I'm a developer from France. I like to b̶r̶e̶a̶k̶ s̶t̶u̶f̶f̶ make things work.
-Feel free to visit my personnal website https://florentdrousset.com
+My name is Florent, and I'm a developer from France.
 
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" />
