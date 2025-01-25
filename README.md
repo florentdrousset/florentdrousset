@@ -3,7 +3,7 @@ My name is Florent, and I'm a developer from France.
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-458cff.svg?&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-b034d9.svg?&logo=react&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?&logo=nextjs&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/Next-000000.svg?&logo=nextjs&logoColor=white" />
   <img alt="Rails" src="https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white" />
   <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-FF8C00?style=flat-square&logo=ocaml&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white" />
