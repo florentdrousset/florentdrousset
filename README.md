@@ -1,4 +1,4 @@
-My name is Florent, and I'm a developer from France.
+Hi ! My name is Flo, I'm a developer from France.
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-458cff.svg?&logo=typescript&logoColor=white" />
