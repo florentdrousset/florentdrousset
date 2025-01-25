@@ -1,7 +1,7 @@
 My name is Florent, and I'm a developer from France.
 
 <p>
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23CC342D.svg?&logo=typescript&logoColor=white" />
   <img alt="Rails" src="https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white" />
   <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-FF8C00?style=flat-square&logo=ocaml&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white" />
