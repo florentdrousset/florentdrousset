@@ -1,5 +1,5 @@
 Hi ! My name is Flo, I'm a developer from France.
-I like back-end languages and I especially love Ruby. I can also work with PHP and Python.
+I like back-end languages and I especially love PHP and Ruby.
 I love contributing to open source software. 
 I own a parrot.
 <!---
